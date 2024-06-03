@@ -78,22 +78,8 @@ export const projectsData = [
     imageUrl: Semtech,
     lnk: "https://www.sierrawireless.com/",
   },
-  {
-    title: "Whizlabs",
-    description:
-      "Whizlabs: Empowering Your Success with Leading Online Certification Training and Practice Exams.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: whizlabs,
-    lnk: "https://www.whizlabs.com/",
-  },
-  {
-    title: "WishTender",
-    description:
-      "WishTender is your gateway to heartfelt connections, where wishes meet reality in a tapestry of shared dreams and meaningful moments.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wishtender,
-    lnk: "https://www.wishtender.com/",
-  },
+
+
 ] as const;
 
 export const skillsData = [
